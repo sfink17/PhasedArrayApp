@@ -1,0 +1,6 @@
+See file:///C:/Users/Simon/AndroidStudioProjects/BluetoothChat/Application/build/tmp/compileJniNativeAudioX86DebugSharedLibraryJniNativeAudioMainCpp/output.txt for all output for compileJniNativeAudioX86DebugSharedLibraryJniNativeAudioMainCpp.
+compiling SuperpoweredAndroidAudioIO.cpp successful.
+
+compiling SuperpoweredPlayer.cpp successful.
+
+Finished compileJniNativeAudioX86DebugSharedLibraryJniNativeAudioMainCpp, see full log file:///C:/Users/Simon/AndroidStudioProjects/BluetoothChat/Application/build/tmp/compileJniNativeAudioX86DebugSharedLibraryJniNativeAudioMainCpp/output.txt.

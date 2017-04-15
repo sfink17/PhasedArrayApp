@@ -1,0 +1,4 @@
+See file:///C:/Users/Simon/AndroidStudioProjects/BluetoothChat/Application/build/tmp/linkJniNativeAudioX86DebugSharedLibrary/output.txt for all output for linkJniNativeAudioX86DebugSharedLibrary.
+linking libjniNativeAudio.so successful.
+
+Finished linkJniNativeAudioX86DebugSharedLibrary, see full log file:///C:/Users/Simon/AndroidStudioProjects/BluetoothChat/Application/build/tmp/linkJniNativeAudioX86DebugSharedLibrary/output.txt.

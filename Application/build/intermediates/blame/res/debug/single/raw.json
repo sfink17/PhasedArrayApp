@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Simon\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\pure_tone3.wav",
+        "source": "C:\\Users\\Simon\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\raw\\pure_tone3.wav"
+    },
+    {
+        "merged": "C:\\Users\\Simon\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\pure_tone2.wav",
+        "source": "C:\\Users\\Simon\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\raw\\pure_tone2.wav"
+    },
+    {
+        "merged": "C:\\Users\\Simon\\AndroidStudioProjects\\BluetoothChat\\Application\\build\\intermediates\\res\\merged\\debug\\raw\\pure_tone1.ogg",
+        "source": "C:\\Users\\Simon\\AndroidStudioProjects\\BluetoothChat\\Application\\src\\main\\res\\raw\\pure_tone1.ogg"
+    }
+]
