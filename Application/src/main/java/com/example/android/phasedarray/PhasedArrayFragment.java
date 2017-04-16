@@ -58,7 +58,7 @@ import java.nio.charset.Charset;
 
 
 /**
- * This fragment controls Bluetooth to communicate with other devices.
+ * This fragment controls communication with other devices.
  */
 public class PhasedArrayFragment extends Fragment implements WifiP2pManager.ConnectionInfoListener {
 
@@ -348,7 +348,7 @@ public class PhasedArrayFragment extends Fragment implements WifiP2pManager.Conn
 
 
 
-        // Initialize the WiFiDirectService to perform bluetooth connections
+        // Initialize the WiFiDirectService to perform connections
         mWiFiDirectService = new WiFiDirectService(getActivity(), mHandler, mManager,
                 mChannel, (WiFiDirectBroadcastReceiver) mReceiver);
 
