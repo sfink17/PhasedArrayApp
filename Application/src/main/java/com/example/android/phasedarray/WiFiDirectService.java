@@ -36,12 +36,6 @@ import java.net.Socket;
 import java.nio.ByteBuffer;
 import java.util.UUID;
 
-/**
- * This class does all the work for setting up and managing Bluetooth
- * connections with other devices. It has a thread that listens for
- * incoming connections, a thread for connecting with a device, and a
- * thread for performing data transmissions when connected.
- */
 public class WiFiDirectService {
     // Debugging
     private static final String TAG = "WiFiDirectService";
@@ -87,7 +81,7 @@ public class WiFiDirectService {
     public static final int STATE_CONNECTED_SERVER = 4;
 
     /**
-     * Constructor. Prepares a new BluetoothChat session.
+     * Constructor. Prepares a new WiFiDirectService session.
      *
      * @param context The UI Activity Context
      * @param handler A Handler to send messages back to the UI Activity
